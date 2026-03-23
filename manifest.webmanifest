@@ -1,6 +1,6 @@
 {
-  "name": "CaraVisit",
-  "short_name": "CaraVisit",
+  "name": "Esplora Caravaggio",
+  "short_name": "EspCara",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
